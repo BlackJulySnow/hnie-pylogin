@@ -128,7 +128,7 @@ if __name__ == '__main__':
     parms = sys.argv
     n = 15
     if parms[1] == "login":
-        for i, user, passwd in enumerate(zip(users, passwds), 1):
+        for i, (user, passwd) in enumerate(zip(users, passwds), 1):
             if i > n:
                 break
             if str(i) not in parms[2:] and parms[2] != "all":
