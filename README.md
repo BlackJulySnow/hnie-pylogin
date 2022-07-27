@@ -1,8 +1,8 @@
 # PyLogin
 
-基于Python的校园网登录
-主要用于在Linux环境下无法通过浏览器登陆或者多网卡聚合登陆情况
-本项目仅依赖最基本的python或者bash环境即可，但是在Windows上需要进行一定调整
+基于Python的校园网登录  
+主要用于在Linux环境下无法通过浏览器登陆或者多网卡聚合登陆情况  
+本项目仅依赖最基本的python或者bash环境即可，但是在Windows上需要进行一定调整  
 
 
 ## Python版本
